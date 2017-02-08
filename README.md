@@ -24,4 +24,5 @@ Provides image extraction and registration at the same time.
 ## readMP4.m
 Reads an MP4 video into MATLAB's workspace.
 
-Further information and questions: shb@icv.tuit.ut.ee
+## Further information and questions
+shb@icv.tuit.ut.ee
