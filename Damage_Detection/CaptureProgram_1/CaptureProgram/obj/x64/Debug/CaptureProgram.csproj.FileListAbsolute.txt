@@ -1,0 +1,57 @@
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\bin\x64\Debug\CaptureProgram.exe.config
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\bin\x64\Debug\CaptureProgram.exe
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\bin\x64\Debug\CaptureProgram.pdb
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\bin\x64\Debug\openalpr-net.dll
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\obj\x64\Debug\CaptureProgram.Form1.resources
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\obj\x64\Debug\CaptureProgram.Properties.Resources.resources
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\obj\x64\Debug\CaptureProgram.SettingWindow.resources
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\obj\x64\Debug\CaptureProgram.csproj.GenerateResource.Cache
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\obj\x64\Debug\CaptureProgram.exe
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\obj\x64\Debug\CaptureProgram.pdb
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\obj\x64\Debug\CaptureProgram.csprojResolveAssemblyReference.cache
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\bin\x64\Debug\DotNetZip.dll
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\bin\x64\Debug\DotNetZip.xml
+C:\Users\morteza\Desktop\CaptureProgram\CaptureProgram\bin\x64\Debug\CaptureProgram.exe.config
+C:\Users\morteza\Desktop\CaptureProgram\CaptureProgram\obj\x64\Debug\CaptureProgram.exe
+C:\Users\morteza\Desktop\CaptureProgram\CaptureProgram\obj\x64\Debug\CaptureProgram.pdb
+C:\Users\morteza\Desktop\CaptureProgram\CaptureProgram\bin\x64\Debug\CaptureProgram.exe
+C:\Users\morteza\Desktop\CaptureProgram\CaptureProgram\bin\x64\Debug\CaptureProgram.pdb
+C:\Users\morteza\Desktop\CaptureProgram\CaptureProgram\bin\x64\Debug\DotNetZip.dll
+C:\Users\morteza\Desktop\CaptureProgram\CaptureProgram\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\morteza\Desktop\CaptureProgram\CaptureProgram\bin\x64\Debug\DotNetZip.xml
+C:\Users\morteza\Desktop\CaptureProgram\CaptureProgram\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\morteza\Desktop\CaptureProgram\CaptureProgram\obj\x64\Debug\CaptureProgram.csprojResolveAssemblyReference.cache
+C:\Users\morteza\Desktop\CaptureProgram\CaptureProgram\obj\x64\Debug\CaptureProgram.Form1.resources
+C:\Users\morteza\Desktop\CaptureProgram\CaptureProgram\obj\x64\Debug\CaptureProgram.Properties.Resources.resources
+C:\Users\morteza\Desktop\CaptureProgram\CaptureProgram\obj\x64\Debug\CaptureProgram.SettingWindow.resources
+C:\Users\morteza\Desktop\CaptureProgram\CaptureProgram\obj\x64\Debug\CaptureProgram.csproj.GenerateResource.Cache
+C:\Users\morteza\Desktop\CaptureProgram_1\CaptureProgram\bin\x64\Debug\CaptureProgram.exe.config
+C:\Users\morteza\Desktop\CaptureProgram_1\CaptureProgram\bin\x64\Debug\CaptureProgram.exe
+C:\Users\morteza\Desktop\CaptureProgram_1\CaptureProgram\bin\x64\Debug\CaptureProgram.pdb
+C:\Users\morteza\Desktop\CaptureProgram_1\CaptureProgram\bin\x64\Debug\DotNetZip.dll
+C:\Users\morteza\Desktop\CaptureProgram_1\CaptureProgram\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\morteza\Desktop\CaptureProgram_1\CaptureProgram\bin\x64\Debug\DotNetZip.xml
+C:\Users\morteza\Desktop\CaptureProgram_1\CaptureProgram\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\morteza\Desktop\CaptureProgram_1\CaptureProgram\obj\x64\Debug\CaptureProgram.csprojResolveAssemblyReference.cache
+C:\Users\morteza\Desktop\CaptureProgram_1\CaptureProgram\obj\x64\Debug\CaptureProgram.Form1.resources
+C:\Users\morteza\Desktop\CaptureProgram_1\CaptureProgram\obj\x64\Debug\CaptureProgram.Properties.Resources.resources
+C:\Users\morteza\Desktop\CaptureProgram_1\CaptureProgram\obj\x64\Debug\CaptureProgram.SettingWindow.resources
+C:\Users\morteza\Desktop\CaptureProgram_1\CaptureProgram\obj\x64\Debug\CaptureProgram.csproj.GenerateResource.Cache
+C:\Users\morteza\Desktop\CaptureProgram_1\CaptureProgram\obj\x64\Debug\CaptureProgram.exe
+C:\Users\morteza\Desktop\CaptureProgram_1\CaptureProgram\obj\x64\Debug\CaptureProgram.pdb
+C:\Users\Martin\Desktop\CaptureProgram_1\CaptureProgram\bin\x64\Debug\CaptureProgram.exe.config
+C:\Users\Martin\Desktop\CaptureProgram_1\CaptureProgram\bin\x64\Debug\CaptureProgram.exe
+C:\Users\Martin\Desktop\CaptureProgram_1\CaptureProgram\bin\x64\Debug\CaptureProgram.pdb
+C:\Users\Martin\Desktop\CaptureProgram_1\CaptureProgram\bin\x64\Debug\DotNetZip.dll
+C:\Users\Martin\Desktop\CaptureProgram_1\CaptureProgram\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Martin\Desktop\CaptureProgram_1\CaptureProgram\bin\x64\Debug\DotNetZip.xml
+C:\Users\Martin\Desktop\CaptureProgram_1\CaptureProgram\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Martin\Desktop\CaptureProgram_1\CaptureProgram\obj\x64\Debug\CaptureProgram.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\CaptureProgram_1\CaptureProgram\obj\x64\Debug\CaptureProgram.Form1.resources
+C:\Users\Martin\Desktop\CaptureProgram_1\CaptureProgram\obj\x64\Debug\CaptureProgram.Properties.Resources.resources
+C:\Users\Martin\Desktop\CaptureProgram_1\CaptureProgram\obj\x64\Debug\CaptureProgram.SettingWindow.resources
+C:\Users\Martin\Desktop\CaptureProgram_1\CaptureProgram\obj\x64\Debug\CaptureProgram.csproj.GenerateResource.Cache
+C:\Users\Martin\Desktop\CaptureProgram_1\CaptureProgram\obj\x64\Debug\CaptureProgram.exe
+C:\Users\Martin\Desktop\CaptureProgram_1\CaptureProgram\obj\x64\Debug\CaptureProgram.pdb

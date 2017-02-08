@@ -1,0 +1,15 @@
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\bin\x64\Release\CaptureProgram.exe.config
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\bin\x64\Release\CaptureProgram.exe
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\bin\x64\Release\CaptureProgram.pdb
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\bin\x64\Release\openalpr-net.dll
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\obj\x64\Release\CaptureProgram.Form1.resources
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\obj\x64\Release\CaptureProgram.Properties.Resources.resources
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\obj\x64\Release\CaptureProgram.SettingWindow.resources
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\obj\x64\Release\CaptureProgram.csproj.GenerateResource.Cache
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\obj\x64\Release\CaptureProgram.exe
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\obj\x64\Release\CaptureProgram.pdb
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\obj\x64\Release\CaptureProgram.csprojResolveAssemblyReference.cache
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\bin\x64\Release\DotNetZip.dll
+C:\Users\ozanb\documents\visual studio 2015\Projects\CaptureProgram\CaptureProgram\bin\x64\Release\DotNetZip.xml

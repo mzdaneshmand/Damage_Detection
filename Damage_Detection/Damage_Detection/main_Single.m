@@ -1,0 +1,19 @@
+clc
+clear
+close all
+tic
+[optimizer,metric]=imregconfig('multimodal');
+optimizer.InitialRadius=optimizer.InitialRadius/3.5;
+optimizer.MaximumIterations=300;
+BC=imread('1_1.jpg');
+AC=imread('2_1.jpg');
+ACR=Register(AC,BC,optimizer,metric);
+figure
+imshowpair(ACR,BC)
+saveas(gcf,'ACR.jpg')
+myTolerance=60;
+CM=detectDamage(BC,ACR,myTolerance);
+CD=showDamage(ACR,CM,[255,0,0]);
+figure
+imshow(CD)
+imwrite(CD,'CD.jpg')
